@@ -15,3 +15,5 @@ Fork and create PRs to contribute
 Adding changes from rebase-example branch
 
 roll back example
+
+Stash example
